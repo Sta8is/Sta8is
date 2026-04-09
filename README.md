@@ -24,9 +24,9 @@ I build systems that **predict the future** — specifically, how visual scenes 
 
 | | Paper | Venue |
 |---|---|---|
-| 🔥 | [**DINO-Foresight**: Looking into the Future with DINO](https://openreview.net/forum?id=gimtybo07H) | **NeurIPS 2025** |
-| 🔥 | [**ReDi**: Boosting Generative Image Modeling via Joint Image-Feature Synthesis](https://openreview.net/forum?id=i4qAfV04rZ) | **NeurIPS 2025** |
-| 🔥 | [**FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers](https://arxiv.org/abs/2501.08303) | **CVPR 2025** |
+| 🔥 | [**DINO-Foresight**: Looking into the Future with DINO](https://dino-foresight.github.io/) | **NeurIPS 2025** |
+| 🔥 | [**ReDi**: Boosting Generative Image Modeling via Joint Image-Feature Synthesis](https://representationdiffusion.github.io/) | **NeurIPS 2025** |
+| 🔥 | [**FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers](https://futurist-cvpr2025.github.io/) | **CVPR 2025** |
 
 ## 📊 GitHub Stats
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sta8is&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)

@@ -29,4 +29,4 @@ I build systems that **predict the future** — specifically, how visual scenes 
 | 🔥 | [**FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers](https://futurist-cvpr2025.github.io/) | **CVPR 2025** |
 
 ## 📊 GitHub Stats
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sta8is&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Stathis's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sta8is&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
